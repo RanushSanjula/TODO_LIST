@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial 5</string>
+    <string name="tvTitle">My ToDo List</string>
+    <string name="btnAddTodo">ADD ITEM</string>
+</resources>
